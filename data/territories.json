@@ -1,0 +1,322 @@
+{
+    "001": {
+        "id": "001",
+        "name": "Coeur Historique",
+        "color": "#3EB6B7",
+        "type": "singleRegion",
+        "borders": [1, 1, 110, 50],
+        "rpz": ["ImJustWan#3062 ", "Bruno_#5544"]
+    },
+    "002": {
+        "id": "002",
+        "name": "Forêt Abyssale",
+        "color": "#08ED9D",
+        "type": "singleRegion",
+        "borders": [331, 1, 430, 119],
+        "rpz": ["Juka#5625", "creepidys#2478", "Marie#1208", "arkenhertz#5068", "Skulker#7315", "Beadorablexoxo#5148", "As33#3557"]
+    },
+    "003": {
+        "id": "003",
+        "name": "Toundra",
+        "color": "#FF6600",
+        "type": "singleRegion",
+        "borders": [471, 1, 550, 50],
+        "rpz": ["MilouMalo#8582", "Olympe#8675"]
+    },
+    "004": {
+        "id": "004",
+        "name": "Terres Fertiles",
+        "color": "#10EDB8",
+        "type": "autoDepartment",
+        "borders": [241, 151, 290, 250],
+        "rpz": ["RedWarrior#1813", "Babouin#8555", "Asurix#4727"]
+    },
+    "005": {
+        "id": "005",
+        "name": "Champs du Soleil",
+        "color": "#60AD66",
+        "type": "autoDepartment",
+        "borders": [291, 211, 335, 290],
+        "rpz": ["Jean-jean la terreur#6731", "Va lise#2638", "Karma Spencer#8468"]
+    },
+    "006": {
+        "id": "006",
+        "name": "Domaine Royal",
+        "color": "#A0FFFF",
+        "type": "autoDepartment",
+        "borders": [111, 251, 155, 290],
+        "rpz": ["mae#4830"]
+    },
+    "007": {
+        "id": "007",
+        "name": "Eaux de Givrétoile",
+        "color": "#6CFD96",
+        "type": "autoDepartment",
+        "borders": [471, 51, 510, 79],
+        "rpz": ["Hunnack#9664", "Éléangue#1459"]
+    },
+    "008": {
+        "id": "008",
+        "name": "Grande Clairière",
+        "color": "#D97807",
+        "type": "autoDepartment",
+        "borders": [431, 51, 740, 79],
+        "rpz": ["Neutryno#4333"]
+    },
+    "009": {
+        "id": "009",
+        "name": "Hautes Dunes",
+        "color": "#AEFF00",
+        "type": "autoDepartment",
+        "borders": [431, 251, 510, 290],
+        "rpz": ["Thallium#6675"]
+    },
+    "010": {
+        "id": "010",
+        "name": "Îlots Perdus",
+        "color": "null",
+        "type": "autoDepartment",
+        "borders": [197, 211, 240, 250],
+        "rpz": ["null"]
+    },
+    "011": {
+        "id": "011",
+        "name": "Jungle",
+        "color": "#AEFF00",
+        "type": "autoDepartment",
+        "borders": [431, 1, 470, 50],
+        "rpz": ["[470/15]ecodouble#4021"]
+    },
+    "012": {
+        "id": "012",
+        "name": "Labyrinthe du Centaure",
+        "color": "#5E4321",
+        "type": "autoDepartment",
+        "borders": [197, 251, 240, 290],
+        "rpz": ["Pony#8543"]
+    },
+    "013": {
+        "id": "013",
+        "name": "Mer du Nord",
+        "color": "#0C4352",
+        "type": "autoDepartment",
+        "borders": [291, 1, 340, 50],
+        "rpz": ["Ninnh#3745", "Lolira_Nyan#3008"]
+    },
+    "014": {
+        "id": "014",
+        "name": "Repaire des Pirates",
+        "color": "#195080",
+        "type": "autoDepartment",
+        "borders": [241, 251, 290, 290],
+        "rpz": ["BTP#6758", "laycore #5675"]
+    },
+    "015": {
+        "id": "015",
+        "name": "Salins",
+        "color": "#069420",
+        "type": "autoDepartment",
+        "borders": [291, 121, 430, 146],
+        "rpz": ["bapt#1298", "DDFN#2423"]
+    },
+    "016": {
+        "id": "016",
+        "name": "Source Enchantée",
+        "color": "#094E6E",
+        "type": "autoDepartment",
+        "borders": [156, 251, 196, 290],
+        "rpz": ["Dasha#7767"]
+    },
+    "017": {
+        "id": "017",
+        "name": "Terre du Kraken",
+        "color": "#0DC8C2",
+        "type": "autoDepartment",
+        "borders": [431, 80, 510, 120],
+        "rpz": ["leullaulle#2348", "DocPoulet#8357", "Nanou#0796"]
+    },
+    "018": {
+        "id": "018",
+        "name": "Vergers Magiques",
+        "color": "#9B3FFB",
+        "type": "autoDepartment",
+        "borders": [1, 251, 110, 290],
+        "rpz": ["null"]
+    },
+    "019": {
+        "id": "019",
+        "name": "Contrées des Songes",
+        "color": "#0E1876",
+        "type": "complexRegion",
+        "borders": [1, 211, 196, 250],
+        "rpz": []
+    },
+    "020": {
+        "id": "020",
+        "name": "Méridionale",
+        "color": "#008C07",
+        "type": "complexRegion",
+        "borders": [101, 121, 240, 210],
+        "rpz": []
+    },
+    "021": {
+        "id": "021",
+        "name": "Plateaux de la Résolution",
+        "color": "#FF00CC",
+        "type": "complexRegion",
+        "borders": [1, 101, 240, 120],
+        "rpz": []
+    },
+    "022": {
+        "id": "022",
+        "name": "V.I.E",
+        "color": "#10FFB8",
+        "type": "complexRegion",
+        "borders": [197, 1, 240, 100],
+        "rpz": ["Arle#0314", "Le Mafieu18#2103"]
+    },
+    "023": {
+        "id": "023",
+        "name": "Plateau Est",
+        "color": "#007100",
+        "type": "regionalDepartment",
+        "borders": [194, 101, 240, 120],
+        "parentId": "021",
+        "rpz": ["écho ☆#0175", "baguette_AU#6271"]
+    },
+    "024": {
+        "id": "024",
+        "name": "Plateau Ouest",
+        "color": "#618B25",
+        "type": "regionalDepartment",
+        "borders": [101, 101, 148, 120],
+        "parentId": "021",
+        "rpz": ["Freeripper#0327", "Alex ITMF#0191"]
+    },
+    "025": {
+        "id": "025",
+        "name": "Plateau Central",
+        "color": "#66A666",
+        "type": "regionalDepartment",
+        "borders": [149, 101, 193, 120],
+        "parentId": "021",
+        "rpz": ["Ealmir#1244", "Adyggo#5217"]
+    },
+    "026": {
+        "id": "026",
+        "name": "Route de la Résolution",
+        "color": "#ff9e54",
+        "type": "regionalDepartment",
+        "borders": [1, 101, 100, 120],
+        "parentId": "021",
+        "rpz": ["Nimira#3703", "Lone Em Potestluci#2695"]
+    },
+    "027": {
+        "id": "027",
+        "name": "Vallée du Nord",
+        "color": "#10FFB8",
+        "type": "regionalDepartment",
+        "borders": [197, 1, 240, 50],
+        "parentId": "022",
+        "rpz": ["Arthur chac#1813"]
+    },
+    "028": {
+        "id": "028",
+        "name": "Vallée du Sud",
+        "color": "#10FFB8",
+        "type": "regionalDepartment",
+        "borders": [197, 51, 240, 79],
+        "parentId": "022",
+        "rpz": ["PIXIX2000#0127"]
+    },
+    "029": {
+        "id": "029",
+        "name": "Vallée Centrale",
+        "color": "#10FFB8",
+        "type": "regionalDepartment",
+        "borders": [197, 80, 240, 100],
+        "parentId": "022",
+        "rpz": ["Amol#5958"]
+    },
+    "030": {
+        "id": "030",
+        "name": "Montagnes de l'Est",
+        "color": "#265347",
+        "type": "regionalDepartment",
+        "borders": [200, 150, 240, 149],
+        "parentId": "020",
+        "rpz": ["null"]
+    },
+    "031": {
+        "id": "031",
+        "name": "Montagnes de l'Ouest",
+        "color": "#008F64",
+        "type": "regionalDepartment",
+        "borders": [101, 121, 155, 149],
+        "parentId": "020",
+        "rpz": ["Amlys#7166 ", "GawellAnkou#7283"]
+    },
+    "032": {
+        "id": "032",
+        "name": "Montagens Centrales",
+        "color": "#365347",
+        "type": "regionalDepartment",
+        "borders": [156, 121, 199, 149],
+        "parentId": "020",
+        "rpz": ["tookie#5495"]
+    },
+    "033": {
+        "id": "033",
+        "name": "Désert de l'Est",
+        "color": "#D09E3C",
+        "type": "regionalDepartment",
+        "borders": [200, 150, 240, 209],
+        "parentId": "020",
+        "rpz": ["Nytfélin#9823"]
+    },
+    "034": {
+        "id": "034",
+        "name": "Désert de l'Ouest",
+        "color": "#FCFF6B",
+        "type": "regionalDepartment",
+        "borders": [101, 150, 155, 209],
+        "parentId": "020",
+        "rpz": ["Reyla98#4304", "Jean Dubois#0484"]
+    },
+    "035": {
+        "id": "035",
+        "name": "Désert Central",
+        "color": "#D06608",
+        "type": "regionalDepartment",
+        "borders": [156, 150, 199, 209],
+        "parentId": "020",
+        "rpz": ["Miyuku Nidali#1384"]
+    },
+    "036": {
+        "id": "036",
+        "name": "Plaines Fleuries",
+        "color": "#158705",
+        "type": "regionalDepartment",
+        "borders": [1, 211, 110, 250],
+        "parentId": "019",
+        "rpz": ["Madakan#2944"]
+    },
+    "037": {
+        "id": "037",
+        "name": "Oasis",
+        "color": "#1BB999",
+        "type": "regionalDepartment",
+        "borders": [156, 210, 196, 250],
+        "parentId": "019",
+        "rpz": ["Élise Lo#6749"]
+    },
+    "038": {
+        "id": "038",
+        "name": "Terre des Mirages",
+        "color": "#FFD300",
+        "type": "regionalDepartment",
+        "borders": [111, 211, 155, 250],
+        "parentId": "019",
+        "rpz": ["Samyan#7649", "lil Bchii#4208"]
+    }
+}

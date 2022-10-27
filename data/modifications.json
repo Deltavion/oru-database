@@ -1,0 +1,47 @@
+[
+    {
+        "authorId": "454304178290819077",
+        "territoryId": "001",
+        "territoryName": "Bonnie",
+        "borders": {
+            "old": [28, 67, 64, 210],
+            "new": [28, 64, 67, 210]
+        }
+    },
+    {
+        "authorId": "760675395000914528",
+        "territoryId": "025",
+        "territoryName": "Zoe",
+        "name": {
+            "old": "Zoe",
+            "new": "Jessy"
+        }
+    },
+    {
+        "authorId": "873015522178166206",
+        "territoryId": "056",
+        "territoryName": "Ash",
+        "borders": {
+            "old": [28, 67, 64, 210],
+            "new": [28, 64, 67, 210]
+        }
+    },
+    {
+        "authorId": "617482419025923588",
+        "territoryId": "081",
+        "territoryName": "Bea",
+        "borders": {
+            "old": [28, 67, 64, 210],
+            "new": [28, 64, 67, 210]
+        }
+    },
+    {
+        "authorId": "931524741696759609",
+        "territoryId": "102",
+        "territoryName": "Colt",
+        "color": {
+            "old": "#45f912",
+            "new": "#898989"
+        }
+    }
+]
